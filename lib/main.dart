@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           leading: Container(
-     color: Colors.amber,       
+     color: Colors.blue,       
           ),
           leadingWidth: 50,
           title: Container(
